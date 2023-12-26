@@ -1,0 +1,15 @@
+{
+  "name": "resim_api",
+  "version": "1.0.0",
+  "description": "SlenzyCode - Resim çizme.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "slenzycode",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hercai": "^11.1.3"
+  }
+}
